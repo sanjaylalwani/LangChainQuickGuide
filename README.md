@@ -1,4 +1,4 @@
-# LangChainQuickGuide
+# LangChain Quick Guide
 This code repo helps to understand the basics of LangChain.
 
 **Prompt templates:**
